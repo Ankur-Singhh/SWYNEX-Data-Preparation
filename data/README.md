@@ -21,8 +21,7 @@ the following classes:
 - SSH-Patator
 
 ## File Availability
-The original CSV file is not included in this repository because of its large
-file size.
+The original CSV file is included in this repository.
 
 The notebook contains the complete preprocessing workflow and can be run
 using the downloaded dataset.
