@@ -26,8 +26,7 @@ along with FTP-Patator and SSH-Patator attack traffic.
 Official dataset page:
 https://www.unb.ca/cic/datasets/ids-2017.html
 
-The original dataset is not included in this repository because of its large
-file size.
+The original dataset is included in this repository.
 
 ## Tools & Technologies
 - Python
